@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.56"
+    "react-native": "0.56",
+    "react-native-panoram-image": "1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
